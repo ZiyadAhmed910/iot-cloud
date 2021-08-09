@@ -2,14 +2,14 @@
 ## Table of contents
 - [Introduction](#introduction)
 - [Demo](#demo)
-- [Circuit Diagram](#Circuit Diagram)
+- [Circuit](#Circuit)
 - [Technology](#Technology)
 - [License](#License)
 
 ## Introduction
 Welcome to the github repo of IOT cloud tutorial building from scratch.
 
-## Circuit Diagram
+## Circuit
 
 ![Circuit Diagram](https://www.electronicwings.com/public/images/user_images/images/NodeMCU/NodeMCU%20Interfaces/NodeMCU%20DHT11/NodeMCU_DHT11_Interfacing.png)
 
