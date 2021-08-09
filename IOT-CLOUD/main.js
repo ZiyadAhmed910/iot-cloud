@@ -2,7 +2,7 @@ window.onload = function () {
   loaddata();
 };
 function loaddata() {
-  var url = "http://localhost/iot-cloud-wheather-1/api/read_all.php";
+  var url = "http://your_ip_address/api/read_all.php";
   $.getJSON(url, function (data) {
     var val = data;
     var humid = data["weather"][Object.keys(data["weather"]).length - 1]["hum"];
