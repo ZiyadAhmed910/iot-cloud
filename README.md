@@ -1,6 +1,10 @@
 # iot-cloud
 ## Table of contents
 - [Introduction](#introduction)
+- [Demo](#demo)
+- [Circuit Diagram](#Circuit Diagram)
+- [Technology](#Technology)
+- [License](#License)
 
 ## Introduction
 Welcome to the github repo of IOT cloud tutorial building from scratch.
