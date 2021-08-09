@@ -2,7 +2,7 @@
 $serverName = "localhost";
 $dbUsername = "root";
 $dbPassword = "";
-$dbName = "nodemcudatabase1";
+$dbName = "iotcloud";
 $conn = mysqli_connect($serverName, $dbUsername, $dbPassword, $dbName);
 
 if (!$conn) {
