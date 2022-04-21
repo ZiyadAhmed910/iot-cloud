@@ -18,7 +18,7 @@ Welcome to the github repo of IOT cloud tutorial building from scratch.
 
 The advanced version of the application is deployed and can be accessed through the following link:
 
-[IOTPLATFORM](https://iotplatform.ziyadahmed.me/)
+[IOTPLATFORM](https://iotplatform.ziyadahmed.in/)
 
 ## Blog
 To Build this project step by step instructions are give on the blog
